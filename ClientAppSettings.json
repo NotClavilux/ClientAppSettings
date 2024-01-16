@@ -1,7 +1,7 @@
 {
-  "DFIntTaskSchedulerTargetFps": 300,
-  "FFlagHandleAltEnterFullscreenManually": false,
-  "FFlagFastGPULightCulling3": false,
+  "DFIntTaskSchedulerTargetFps": 500,
+  "FFlagHandleAltEnterFullscreenManually": true,
+  "FFlagFastGPULightCulling3": true,
   "FFlagPreloadAllFonts": true,
   "DFIntS2PhysicsSenderRate": 30,
   "FFlagFixGraphicsQuality": false,
